@@ -1,2 +1,2 @@
 SELECT * FROM posts
-WHERE post = $1
+WHERE post LIKE AND %$1%

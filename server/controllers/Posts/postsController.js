@@ -15,7 +15,7 @@ search = (req, res) => {
         })
     }
 }
-
+get
 module.exports = {
     search
 }
